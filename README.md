@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+"Feel free to use this, it is my sadaqah jariyah for the akhirah."
 <!--
 **tsuyu/tsuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
