@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"Feel free to use this, it is my sadaqah jariyah for the akhirah."
+"Feel free to use this, it is my sadaqah jariyah for the akhirah.This code is provided "as is" without any warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the code is with you."
 <!--
 **tsuyu/tsuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
